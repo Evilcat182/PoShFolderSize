@@ -1,0 +1,14 @@
+{
+    "DE":  {
+               "HelpMsg":  "Weitere Informationen erhalten Sie",
+               "Folders":  "*Verzeich.:*",
+               "Files":  "*Dateien:*",
+               "Size":  "*Bytes:*"
+           },
+    "EN":  {
+               "HelpMsg":  "For more usage information run ROBOCOPY",
+               "Folders":  "*Dirs :*",
+               "Files":  "*Files :*",
+               "Size":  "*Bytes :*"
+           }
+}
